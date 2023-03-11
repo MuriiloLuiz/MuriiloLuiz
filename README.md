@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1EF501&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EF501&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Murilo+Luiz;I'm+17+years+old;I'm+from+Brazil;I+Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EF501&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Murilo+Luiz;I'm+17+years+old;I'm+from+Brazil;You're+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MuriiloLuiz&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=1EF501&text_color=000000&bg_color=1EF501" alt="Murilo Luiz github stats" /> 
